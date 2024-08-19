@@ -1,5 +1,4 @@
 [build]
-  base = "react-portfolio-site/"
   publish = "build/"
 [[redirects]]
   from = "/*"
